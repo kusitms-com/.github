@@ -1,12 +1,12 @@
 ![header](https://user-images.githubusercontent.com/115339354/194717920-d82d216f-be30-4655-8084-bf2bc8ea2d83.png)
-f
+
 <div align = "center">
   <h1>
     <p>기획자•개발자•디자이너가 모여 하나의 가치를 창조하는 IT 서비스 학회</p>
     <p>한국대학생IT경영학회(KUSITMS)를 소개합니다</p>
   </h1>
 </div>
-
+https://user-images.githubusercontent.com/115339354/203259903-0d78d443-c8e5-4d63-8301-099d1755fd0b.jpeg
 <div align = "center">
   <h3>
   <br>
