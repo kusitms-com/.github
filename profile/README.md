@@ -6,7 +6,7 @@
     <p>한국대학생IT경영학회(KUSITMS)를 소개합니다</p>
   </h1>
 </div>
-https://user-images.githubusercontent.com/115339354/203259903-0d78d443-c8e5-4d63-8301-099d1755fd0b.jpeg
+![initial](https://user-images.githubusercontent.com/115339354/203259903-0d78d443-c8e5-4d63-8301-099d1755fd0b.jpeg)
 <div align = "center">
   <h3>
   <br>
