@@ -25,7 +25,7 @@
     <i>2018 스펙업이 선정한 대한민국 대표 동아리 30 최우수 동아리 선정</i><br>
   </h2>
 </div>
-
+<img src ="https://user-images.githubusercontent.com/115339354/203293516-1dcd219a-13e1-4da4-9292-51a6c03ac9dc.jpg">
 <div align = "center">
   <h2>
   <strong>☎️ How to reach us</strong>
