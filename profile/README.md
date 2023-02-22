@@ -1,1 +1,3 @@
-![05_가로_국문_2도_그라데이션v블랙](https://user-images.githubusercontent.com/115339354/220685928-407d8e62-f320-4700-97c6-e021f50a9a4c.png)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/115339354/220687430-0c19ecf7-0346-47f8-9be1-2eab596d5323.png">
+</p>
