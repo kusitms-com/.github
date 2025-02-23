@@ -1,3 +1,1 @@
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/252366fb-4153-4d84-b638-9b48985eb055">
-</p>
+![kusitms_31st_poster](https://github.com/user-attachments/assets/965766bc-650e-4de3-ad28-f81f9d8fad1a)![kusitms_31st_poster](https://github.com/user-attachments/assets/8a07144d-9508-4330-a343-24e4b85a175c)
