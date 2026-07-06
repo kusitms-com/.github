@@ -1,1 +1,1 @@
-<img width="1080" height="340" alt="image" src="https://github.com/user-attachments/assets/eeab22d1-2abf-4368-8bda-0597cbb691b1" />
+<img width="1080" alt="34th 배너" src="https://github.com/user-attachments/assets/17d3dd1c-d266-44a8-87d6-3ed046475a3d" />
